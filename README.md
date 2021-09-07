@@ -16,8 +16,10 @@ Front End Development - Candidate Test v2.1 (React Version)
 git clone https://github.com/hernandba/ui-test-react
 ```
 
-### Acces Folder
-Go to ui-test-react/ui-test-react
+### Install npm modules
+```
+npm install
+```
 
 ## Testing
 On command line, you can run:
